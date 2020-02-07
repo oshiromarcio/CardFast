@@ -1,0 +1,21 @@
+{
+  "name": "cardfast",
+  "version": "1.0.0",
+  "description": "Valida se o Cartao de Credito e valido",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://oshiro-marcio@dev.azure.com/oshiro-marcio/MyDevs/_git/CardFast"
+  },
+  "author": "marcio.oshiro",
+  "license": "ISC"
+}
